@@ -13,6 +13,7 @@ Scanner sc = new Scanner(System.in);
 	System.out.println("Input an operator");
 	char op=sc.next().charAt(0);	
 
+	//................. Using Switch cases.....................
 switch(op){
 	case '+':
 	System.out.println(x+y);
