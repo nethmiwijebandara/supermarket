@@ -64,7 +64,7 @@ int qa=1000; int qb=1000; int qc=1000;
 	System.out.println("Total price of the items = "+total);
 
 
-//........................Display the remaining quantity..........................
+//........................Display the remaining quantity here..........................
 
 	System.out.println();
 	System.out.println("The remaining quantity:");
